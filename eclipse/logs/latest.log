@@ -1,0 +1,54 @@
+[00:29:48] [main/INFO]: Setting user: ForgeDevName
+[00:29:49] [Client thread/INFO]: LWJGL Version: 2.9.1
+[00:29:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ME-Donkey
+[00:29:55] [Sound Library Loader/INFO]: Sound engine started
+[00:29:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:29:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:29:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ME-Donkey
+[00:29:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:29:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:29:57] [Sound Library Loader/INFO]: Sound engine started
+[00:30:03] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:30:03] [Server thread/INFO]: Generating keypair
+[00:30:03] [Server thread/INFO]: Converting map!
+[00:30:03] [Server thread/INFO]: Scanning folders...
+[00:30:03] [Server thread/INFO]: Total conversion count is 0
+[00:30:04] [Server thread/INFO]: Preparing start region for level 0
+[00:30:05] [Server thread/INFO]: Preparing spawn area: 8%
+[00:30:06] [Server thread/INFO]: Preparing spawn area: 22%
+[00:30:07] [Server thread/INFO]: Preparing spawn area: 41%
+[00:30:08] [Server thread/INFO]: Preparing spawn area: 61%
+[00:30:09] [Server thread/INFO]: Preparing spawn area: 80%
+[00:30:10] [Server thread/INFO]: Changing view distance to 12, from 10
+[00:30:11] [Server thread/INFO]: ForgeDevName[local:E:5af7513f] logged in with entity id 236 at (55.5, 71.0, 239.5)
+[00:30:11] [Server thread/INFO]: ForgeDevName joined the game
+[00:30:12] [Server thread/INFO]: Saving and pausing game...
+[00:30:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:30:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:30:15] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:30:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3884ms behind, skipping 77 tick(s)
+[00:30:18] [Server thread/INFO]: ForgeDevName has just earned the achievement [Taking Inventory]
+[00:30:18] [Client thread/INFO]: [CHAT] ForgeDevName has just earned the achievement [Taking Inventory]
+[00:30:18] [Client thread/INFO]: Warning: Clientside chunk ticking took 168 ms
+[00:30:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 127 ms
+[00:30:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 101 ms
+[00:30:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 128 ms
+[00:30:21] [Client thread/INFO]: Warning: Clientside chunk ticking took 108 ms
+[00:30:21] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
+[00:30:21] [Client thread/INFO]: Warning: Clientside chunk ticking took 102 ms
+[00:30:24] [Client thread/INFO]: Warning: Clientside chunk ticking took 112 ms
+[00:30:25] [Server thread/INFO]: Saving and pausing game...
+[00:30:25] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:30:26] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:30:26] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:31:32] [Server thread/INFO]: Saving and pausing game...
+[00:31:32] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:31:32] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:31:32] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:31:33] [Server thread/INFO]: Stopping server
+[00:31:33] [Server thread/INFO]: Saving players
+[00:31:33] [Server thread/INFO]: Saving worlds
+[00:31:33] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:31:33] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:31:33] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:31:35] [Client thread/INFO]: Stopping!
